@@ -3,11 +3,14 @@
 # 系統規劃
 
 健身追蹤APP
+
 參考:https://github.com/RickwangF/MyFitness
 
-目標:幫助使用者合理規劃自身身體狀態
+目標:
+幫助使用者合理規劃自身身體狀態
 
 功能:
+
 1.會員註冊與登錄：提供用戶註冊和登錄功能，以便他們可以建立個人帳戶並訪問個人化的功能。
 
 2.個人檔案與目標設定：讓用戶建立自己的個人檔案，包括基本資料、身體測量數據、健身目標等。用戶可以設定目標，例如減肥、增重。
@@ -36,6 +39,7 @@
 
 
 # 系統設計
+
 UI介面連結
 https://www.figma.com/file/On3v1ymMoMzji8uNb8jZmc/Untitled?type=design&node-id=0%3A1&t=zaWQwQ6pUOfa85BW-1
 
