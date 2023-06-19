@@ -56,4 +56,5 @@ https://www.figma.com/file/On3v1ymMoMzji8uNb8jZmc/Untitled?type=design&node-id=0
 
 
 ## 參考資料:
-MyFitnessPal（https://www.myfitnesspal.com）：一個廣受歡迎的健身追蹤網站和應用程式，用戶可以追蹤他們的飲食、運動和體重等健身數據，並獲取個人化的建議。
+MyFitnessPal（ https://www.myfitnesspal.com ） :
+一個廣受歡迎的健身追蹤網站和應用程式，用戶可以追蹤他們的飲食、運動和體重等健身數據，並獲取個人化的建議。
