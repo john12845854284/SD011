@@ -41,9 +41,13 @@ https://www.figma.com/file/On3v1ymMoMzji8uNb8jZmc/Untitled?type=design&node-id=0
 
 # 小組討論
 第１４週：討論主題、決定主題
+
 第１５週：討論目標功能、選擇參考網站、Ａｐｐ、製作系統架構圖
+
 第１６週：進行ＵＩ設計
+
 第１７週：資料統整、製作ＨａｃｋＭＤ及ＧｉｔＨｕｂ
+
 第１８週：錄製影片、上傳報告
 
 
